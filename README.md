@@ -11,7 +11,7 @@ ___
 42 Seoul, 2022.11 - 2023.08 (현재 본과정 참여 중)  
 2023 Samsung DX 대학생 S/W Algorithm Camp (수료 예정)
 
-TOEIC 865 (2022.02.27)
+TOEIC 865 (2022.02.27)  
 Samsung SW Certification (Level_B) 취득
 
 사용 가능 언어 : C, C++
