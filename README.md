@@ -1,4 +1,4 @@
-## 류진호 (Jinho Ryu) (1996 ~)
+## 류진호 (Jinho Ryu)
 
 Sogang University, 2019.03 - 2024.02 (졸업 유예)  
 Mechanical Engineering & Computer Engineering (복수 전공)
