@@ -1,6 +1,6 @@
 ## 류진호 (Jinho Ryu)
 
-Sogang University, 2019.03 - 2024.02 (졸업 유예)  
+Sogang University, 2019.03 - 2024.02 (졸업 유예 중)  
 Mechanical Engineering & Computer Engineering (복수 전공)
 
 전체 학점 : 3.99 / 4.5  
