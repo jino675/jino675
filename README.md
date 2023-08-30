@@ -8,7 +8,7 @@ Mechanical Engineering & Computer Engineering (복수 전공)
 2전공 학점 : 3.80 / 4.5
 ___
 
-42 Seoul (La_Piscine), 2022.08 ~ 2022.09
+42 Seoul (La_Piscine), 2022.08 ~ 2022.09  
 42 Seoul (본과정), 2022.11 ~ (참여 중)  
 2023 Samsung DX 대학생 S/W Algorithm Camp, 2023.07 ~ 2023.08 (수료 예정)
 
