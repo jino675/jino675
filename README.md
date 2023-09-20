@@ -12,6 +12,7 @@ ___
 42 Seoul (본과정), 2022.11 ~                                  (참여 중)  
 2023 Samsung DX 대학생 S/W Algorithm Camp, 2023.07 ~ 2023.08  (수료 / 우수 교육생 선정)
 
+OPIC IM2 (2023.09.13)  
 TOEIC 865 (2022.02.27)  
 Samsung SW Certification (Level_B) 취득
 
